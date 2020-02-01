@@ -64,7 +64,7 @@ singSongTwo = () => {
   console.log("have you any wool");
 };
 
-singSongTwo();
+//singSongTwo();
 
 //setInterval(singSong, 1500);
 
@@ -77,3 +77,8 @@ singSongTwo();
 //   console.log("blah blah black sheep");
 //   console.log("have you any wool");
 // });
+
+// setTimeout(singSong, 10000);
+// setTimeout(() => {
+//   console.log("hi");
+// }, 2000);
